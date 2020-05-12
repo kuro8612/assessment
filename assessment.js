@@ -83,7 +83,7 @@ let answers = [
 '{username}のいいところは気配りです。{username}配慮が多くの人を救っています。',
 '{username}のいいところはその全てです。ありのままの{username}自身がいいところなのです。',
 '{username}のいいところはです自制心です。やばいと思ったときにしっかりと衝動を抑えられる{username}が皆から評価されます。',
-'{username}のいいところは優しさです。{username}の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。
+'{username}のいいところは優しさです。{username}の優しい雰囲気や立ち振る舞いに多くの人が癒やされています。',
 ];
 
 function assessment (username){
