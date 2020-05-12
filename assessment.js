@@ -99,4 +99,4 @@ function assessment (username){
     result = result.replace(/\{username\}/g, username);
     //　「/g」は複数選択の意味、「\記号」は\の後ろの正規表現記号をダダの文字としてあつかうためある。
     return result;
-}
+}　
